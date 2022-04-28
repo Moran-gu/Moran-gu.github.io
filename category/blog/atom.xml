@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>欢迎来到Codelove工作室官方Blogs • Posts by &#34;blog&#34; category</title>
+    <link href="http://example.com" />
+    <updated>2022-04-28T04:09:09.000Z</updated>
+    <category term="hello" />
+    <category term="helloworld" />
+    <category term="firstBlog" />
+    <entry>
+        <id>http://example.com/2022/04/28/HelloWorld/</id>
+        <title>HelloWorld</title>
+        <link rel="alternate" href="http://example.com/2022/04/28/HelloWorld/"/>
+        <content type="html">&lt;p&gt;Hello World!&lt;/p&gt;
+</content>
+        <category term="hello" />
+        <category term="helloworld" />
+        <category term="firstBlog" />
+        <updated>2022-04-28T04:09:09.000Z</updated>
+    </entry>
+</feed>

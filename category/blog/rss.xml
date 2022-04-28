@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>欢迎来到Codelove工作室官方Blogs • Posts by &#34;blog&#34; category</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>cn</language>
+        <pubDate>Thu, 28 Apr 2022 12:09:09 +0800</pubDate>
+        <lastBuildDate>Thu, 28 Apr 2022 12:09:09 +0800</lastBuildDate>
+        <category>hello</category>
+        <category>helloworld</category>
+        <category>firstBlog</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2022/04/28/HelloWorld/</guid>
+            <title>HelloWorld</title>
+            <link>http://example.com/2022/04/28/HelloWorld/</link>
+            <category>hello</category>
+            <category>helloworld</category>
+            <category>firstBlog</category>
+            <pubDate>Thu, 28 Apr 2022 12:09:09 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;Hello World!&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
